@@ -5,7 +5,7 @@ This is a collection of my favourite command line tools.
 ## zsh - The shell
 * URL: `https://ohmyz.sh/`
 * Install: `sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"`
-* to fix color issue in autosuggestions with tmux add this to .zshrc: `export TERM=xterm-256color`
+* to fix color issue in autosuggestions with tmux add this to .zshrc: `export TERM=screen-256color`
 
 ## tmux - Virtual Terminal Manager
 * Install: `sudo apt install tmux`
